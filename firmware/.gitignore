@@ -1,0 +1,7 @@
+build/
+vendor/
+config/local_config.h
+__pycache__/
+*.pyc
+*.sqlite3*
+test-data/
